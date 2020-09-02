@@ -4,6 +4,10 @@
 
 GoT quote for a day - an app that generates a random quote from “Game of thrones” TV series based on “A Song Of Ice And Fire” by George R.R. Martin. The seed data was taken from this API: https://github.com/wsizoo/game-of-thrones-quotes
 
+# DEMO
+
+https://youtu.be/r8e6_R5sNvw
+
 # Getting Started
 - Clone this repository onto your local machine.
 - Run bundle install to download all the necessary gems.
